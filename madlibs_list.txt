@@ -13,9 +13,10 @@
 13. Material
 14. Activity
 15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number - 9 
+17. Unit of Time - days
+18. Different Activity -flying 
+19. Adjective - sleek
+20. Vehicle - spaceship
+21. Your Name - Robert
+
