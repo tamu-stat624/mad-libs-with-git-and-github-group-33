@@ -6,8 +6,13 @@ I am writing to you from a intergalactic spaceship in a alienated galaxy. I foun
 going for a ride on a Magenta rocket in October. There are 8735378765 lions and tigers of pink here! In the
 A101 there is a pool full of blood. I fall asleep each night on a comfortable bed of
 mushrooms and dream of reading murder mysteries. It feels as though I have lived here for
+<<<<<<< HEAD
 9 days. I hope one day you can visit, although the only way to get here now is
 flying on a sleek spaceship!!
+=======
+[16] [17]. I hope one day you can visit, although the only way to get here now is
+[18] on a [19] [20]!!
+>>>>>>> 4f4dedacc92c891345f9ee6706119a2b33f24f9a
 
 Best wishes,
 Robert
