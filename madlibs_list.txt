@@ -8,11 +8,11 @@
 8. Noun (Plural): Tigers
 9. Noun : Pink
 10. Room Name : A101
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid - blood
+12. Adjective - comfortable
+13. Material - mushrooms
+14. Activity - reading
+15. Adverb - murder mysteries
 16. Number - 9 
 17. Unit of Time - days
 18. Different Activity -flying 
